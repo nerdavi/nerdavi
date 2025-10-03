@@ -1,5 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=nerdavi&color=006bed)
 
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerdavi&layout=compact&theme=radical&hide_border=true)
+
+
 ## About Me
 -  Fullstack Developer
 -  Exploring new technologies and developing software solutions.
@@ -35,3 +38,5 @@
 [![Linkedin](https://img.shields.io/badge/-Davi%20Guilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-guilherme9/)](https://www.linkedin.com/in/davi-guilherme9/)
 [![Gmail Badge](https://img.shields.io/badge/-gui.gt88@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gui.gt88@gmail.com)](mailto:gui.gt88@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/nerdavi?label=follow&style=social)](https://github.com/nerdavi)
+
+ <img src="bg.gif" alt="Cyberpunk GIF" width="150%"/>
